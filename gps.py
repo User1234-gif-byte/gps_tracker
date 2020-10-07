@@ -15,7 +15,7 @@ def logo():
 	print '''%s
   __________________  _________
  /  _____/\______   \/   _____/  %sCoded by D4RKSH4D0WS%s
-/   \  ___ |     ___/\_____  \   %sWA wa.me/628996604524%s
+/   \  ___ |     ___/\_____  \   %sThx to https://seccodeid.com%s
 \    \_\  \|    |    /        \  %sFB https://bit.ly/2GjT1AZ%s
  \______  /|____|   /_______  /  TRACKER
         \/                  \/
