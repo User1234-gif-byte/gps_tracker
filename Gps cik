@@ -1,0 +1,5 @@
+$ pkg install pyhton2
+$ pip2 install request
+$ git clone https://github.com//AnonRoz-Team/gps_tracker
+$ cd gps_tracker
+$ python2 gps-py
